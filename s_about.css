@@ -27,3 +27,47 @@ header{
 #menu ul li a:hover{
     background-color: #8892b0;
 }
+
+body {
+    background-color: #0a192f;
+}
+
+h1{
+    color: #efefef;
+    font-size: 40px;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.parrafos p{
+    color: #8892b0;
+    font-size: 20px;
+    text-align: left;
+    width: 75%;
+    padding-left: 40px;
+}
+
+.logros li{
+    color: #8892b0;
+    font-size: 20px;
+    text-align: left;
+    width: 75%;
+    padding-left: 60px;
+    list-style: circle;
+}
+
+.logros p{
+    color: #8892b0;
+    font-size: 20px;
+    text-align: left;
+    width: 75%;
+    padding-left: 40px;
+}
+
+img{
+    width: 150px;
+    float: right;
+    margin-right: 220px;
+
+}
