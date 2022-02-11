@@ -26,6 +26,7 @@
     color:rgb(220, 233, 230);
     padding-left: 60px;
     padding-top: 60px;
+    padding-bottom: 60px;
     font-size: 50px;
 }
 
@@ -53,5 +54,12 @@ a{
     border-radius: 30px ;
     font-weight: bold;
     padding-bottom: 20px;
+    margin:40px;
 }
 
+.saludo{
+    color: #62f9d5;
+}
+.nombre{
+    color: #8892b0;
+}
