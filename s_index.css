@@ -10,9 +10,8 @@
     width: 70%;
 }
 
-.right{
-    background: #0a192f;
-    width: 50%;
+.derecho{
+    background-color: #0a192f;
     height: 100vh;
 }
 
@@ -32,9 +31,10 @@
 .l_derecho{
     width: 60%;
     margin:auto;
-    margin-top: 40px;
+    margin-top: 0;
     margin-bottom: 30px;
-    font-size: 60px;
+    font-size: 55px;
+    color: #8892b0;
 }
 
 p{
@@ -42,6 +42,7 @@ p{
     line-height: 30 px;
     width: 60%;
     margin: auto;
+    color:#8892b0
 }
 
 a{
@@ -57,8 +58,19 @@ a{
 }
 
 .saludo{
-    color: #62f9d5;
+    color: #63fdd9;
+    margin:auto;
+    margin-top: 80px;
+    padding-left: 225px;
 }
 .nombre{
-    color: #8892b0;
+    color: #ccd6f6;
+    padding-left: 225px;
+    font-size: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#menu li {
+    padding-bottom: 3em;
 }
