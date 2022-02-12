@@ -65,9 +65,26 @@ h1{
     padding-left: 40px;
 }
 
-img{
+.parrafos img{
     width: 150px;
     float: right;
     margin-right: 220px;
 
+}
+
+.habilidades img{
+    -webkit-filter: invert(90%);
+    align-items: center;
+    padding-left: 20px;
+}
+
+.recuadros{
+    padding-left: 40px;
+    align-items: center;
+    display: inline-block;
+}
+
+.recuadros h2{
+    text-align: justify;
+    color:white;
 }
